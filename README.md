@@ -50,7 +50,41 @@ Mi camino está orientado hacia la intersección entre la cibernética organizac
 </table>
 </div>
 
-[![Liberando Tiempo - YouTube](https://img.shields.io/badge/🔴_YouTube_Liberando_Tiempo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@liberandotiempo6825)
+<div align="center">
+
+<div align="center">
+
+## 🔗 Social Networks | Социальные сети
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@liberandotiempo6825">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="80" alt="YouTube">
+      </a>
+      <br>
+      <strong>YouTube</strong>
+    </td>
+    <td align="center">
+      <a href="https://vk.com/id789696350">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="80" alt="VK">
+      </a>
+      <br>
+      <strong>VK</strong>
+    </td>
+    <td align="center">
+      <a href="https://x.com/LiberandoTiempo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="80" alt="X/Twitter">
+      </a>
+      <br>
+      <strong>X.com</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+</div>
 
 </div>
 </body>
