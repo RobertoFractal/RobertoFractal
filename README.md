@@ -50,6 +50,8 @@ Mi camino está orientado hacia la intersección entre la cibernética organizac
 </table>
 </div>
 
+[![Liberando Tiempo - YouTube](https://img.shields.io/badge/🔴_YouTube_Liberando_Tiempo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@liberandotiempo6825)
+
 </div>
 </body>
 </html>
