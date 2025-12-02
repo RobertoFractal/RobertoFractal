@@ -45,6 +45,7 @@ Mi camino está orientado hacia la intersección entre la cibernética organizac
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="60" alt="GIMP"></td>
 <td align="center"><img src="https://obsidian.md/images/obsidian-logo-gradient.svg" width="60" alt="Obsidian"></td>
 <td align="center"><img src="https://www.debian.org/logos/openlogo-nd.svg" width="60" alt="Debian"></td>
+<td align="center"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60" alt="PostgreSQL"></td>
 </tr>
 </table>
 </div>
